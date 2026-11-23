@@ -1,4 +1,4 @@
-# rotatepilot-com
+# Rotate
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-rotatepilot-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://rotatepilot.com/
+Rotate is a pilot career platform offering training resources, exam preparation, salary data, and airline recruitment tools. Built by a real airline pilot, it provides comprehensive guides for private, commercial, and airline transport pilot licenses, as well as drone pilot certification across global regions.
+
+**Areas:** Aviation · Education · Training · Career · Pilot
+
+## Rotate on APIs.io
+
+Everything profiled for Rotate is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rotatepilot-com/](https://apis.io/providers/rotatepilot-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Rotate Meta API](https://apis.io/apis/rotatepilot-com/rotatepilot-com-meta-api/) — Platform info and stats
+- [Rotate Reference API](https://apis.io/apis/rotatepilot-com/rotatepilot-com-reference-api/) — Airports, aircraft, and glossary data
+- [Rotate Training API](https://apis.io/apis/rotatepilot-com/rotatepilot-com-training-api/) — Practice questions and quizzes
+- [Rotate Weather API](https://apis.io/apis/rotatepilot-com/rotatepilot-com-weather-api/) — Live aviation weather
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Rotate Agentic Access](https://apis.io/agentic-access/rotatepilot-com/rotatepilot-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [Airport](https://apis.io/schemas/rotatepilot-com/rotatepilot-com-airport/)
+- [GlossaryTerm](https://apis.io/schemas/rotatepilot-com/rotatepilot-com-glossary-term/)
+- [Metar](https://apis.io/schemas/rotatepilot-com/rotatepilot-com-metar/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Rotatepilot Com Context](https://apis.io/jsonld/rotatepilot-com/rotatepilot-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Rotate API Rules](https://apis.io/rules/rotatepilot-com/rotatepilot-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rotate Domain Security](https://apis.io/security/rotatepilot-com/rotatepilot-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Rotate Plans Pricing](https://apis.io/plans/rotatepilot-com/rotatepilot-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rotatepilot.com/)
+- [Documentation](https://rotatepilot.com/guides)
+- [API reference](https://rotatepilot.com/developers)
+- [Pricing](https://rotatepilot.com/pricing)
+- [Blog](https://rotatepilot.com/blog)
+- [Trust centre](https://rotatepilot.com/trust)
+- [Terms of service](https://rotatepilot.com/terms)
+- [Privacy policy](https://rotatepilot.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.2** — developing · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 51.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 54.9 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.6** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rotatepilot-com/](https://apis.io/providers/rotatepilot-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rotate: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rotatepilot-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
